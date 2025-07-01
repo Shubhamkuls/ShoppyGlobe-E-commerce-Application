@@ -1,0 +1,23 @@
+.not-found{
+    text-align: center;
+    padding: 60px 20px;
+}
+.not-found h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.not-found p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.home-link{
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    background: #007bff;
+    padding: 7px 10px;
+    
+}
+.home-link:hover{
+    color: red;
+}
