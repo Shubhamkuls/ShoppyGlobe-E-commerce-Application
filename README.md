@@ -23,9 +23,16 @@
 - **React**
 - **Redux Toolkit**
 - **React Router**
-- **JavaScript **
+- **JavaScript**
 - **CSS**
 - **DummyJSON API**
 
 ---
 
+## 🧪 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Shubhamkuls/ShoppyGlobe-E-commerce-Application.git
+cd ShoppyGlobe-E-commerce-Application
